@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/.github.io/React--Sign-In-Page/static/css/main.484427bb.css",
-    "main.js": "/.github.io/React--Sign-In-Page/static/js/main.d809ffd6.js",
-    "static/js/787.0bca8be2.chunk.js": "/.github.io/React--Sign-In-Page/static/js/787.0bca8be2.chunk.js",
-    "index.html": "/.github.io/React--Sign-In-Page/index.html",
-    "main.484427bb.css.map": "/.github.io/React--Sign-In-Page/static/css/main.484427bb.css.map",
-    "main.d809ffd6.js.map": "/.github.io/React--Sign-In-Page/static/js/main.d809ffd6.js.map",
-    "787.0bca8be2.chunk.js.map": "/.github.io/React--Sign-In-Page/static/js/787.0bca8be2.chunk.js.map"
+    "main.css": "/React--Sign-In-Page/static/css/main.484427bb.css",
+    "main.js": "/React--Sign-In-Page/static/js/main.56873a7e.js",
+    "static/js/787.0bca8be2.chunk.js": "/React--Sign-In-Page/static/js/787.0bca8be2.chunk.js",
+    "index.html": "/React--Sign-In-Page/index.html",
+    "main.484427bb.css.map": "/React--Sign-In-Page/static/css/main.484427bb.css.map",
+    "main.56873a7e.js.map": "/React--Sign-In-Page/static/js/main.56873a7e.js.map",
+    "787.0bca8be2.chunk.js.map": "/React--Sign-In-Page/static/js/787.0bca8be2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.484427bb.css",
-    "static/js/main.d809ffd6.js"
+    "static/js/main.56873a7e.js"
   ]
 }
